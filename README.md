@@ -1,6 +1,6 @@
-MEAN Stack Resturant Ordering System.
-This project was generated with Angular CLI version 10.1.2.
-Following are the features 
+# MEAN Stack Resturant Ordering System.
+# This project was generated with Angular CLI version 10.1.2.
+# Following are the features 
 
 FOOD MENU 
 C: Create food items into menu table
@@ -26,7 +26,7 @@ R: View reviews from other users
 U: Update his/her own feedback
 D: Delete comment. Can only be deleted by admin
 
-SIGNUP AND OTP VERIFICATION VIA EMAIL
-USER AND ADMIN DASHBOARD 
-BLOCK AND DELETE USER FROM ADMIN
-GOOGLE MAPS API INTERGRATION
+# SIGNUP AND OTP VERIFICATION VIA EMAIL
+# USER AND ADMIN DASHBOARD 
+# BLOCK AND DELETE USER FROM ADMIN
+# GOOGLE MAPS API INTERGRATION
